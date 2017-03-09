@@ -1,0 +1,32 @@
+dianguageCode = "en-us"
+title = "beaubeau"
+theme = "ghostwriter"
+baseUrl = "http =//www.beaubeau.space/"
+copyright = "Austin Beau Bodzas"
+
+config = "config.yaml"
+defaultLayout = "post"
+
+[Author]
+    name = "Austin Bodzas"
+
+[Permalinks]
+    post = "/:year/:month/:day/:filename/"
+
+[Taxonomies]
+    tag = "tags"
+
+[Params]
+    intro = true
+    opengraph = true
+    headline = "BeauBeau"
+    description = "Space. Computers. Music."
+    github = "https =//github.com/Beaudidly"
+    shareGithub = true
+    linkedin = "https =//www.linkedin.com/in/austin-bodzas-4335bb126/"
+    shareLinkedin = true
+
+[[menu.main]]
+    name = "Blog"
+    url = "/"
+    weight = 1
