@@ -21,12 +21,17 @@ defaultLayout = "post"
     opengraph = true
     headline = "BeauBeau"
     description = "Space. Computers. Music."
-    github = "https =//github.com/Beaudidly"
+    github = "http://github.com/Beaudidly"
     shareGithub = true
-    linkedin = "https =//www.linkedin.com/in/austin-bodzas-4335bb126/"
+    linkedin = "https://www.linkedin.com/in/austin-bodzas-4335bb126"
     shareLinkedin = true
 
 [[menu.main]]
     name = "Blog"
     url = "/"
     weight = 1
+
+[[menu.main]]
+    name = "Music"
+    url = "/music/"
+    weight = 2
