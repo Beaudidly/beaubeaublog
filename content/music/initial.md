@@ -1,7 +1,7 @@
 +++
 title = "Shows January to Mid April"
 description = "Where BeauBeau's been these past few months"
-data = "2017-04-16"
+date = "2017-04-16"
 tags = ["music", "garage rock", "strfkr", "king gizzard and the lizard wizard"]
 +++
 
