@@ -1,8 +1,8 @@
 +++
-title = "Shows January - Mid April"
+title = "Shows January to Mid April"
 description = "Where BeauBeau's been these past few months"
 data = "2017-04-16"
-tags = ["music", "garage", "rock"]
+tags = ["music", "garage rock", "strfkr", "king gizzard and the lizard wizard"]
 +++
 
 This would be the first edition of my music blog. To start things off, I don't try to be a critic, just sharing my experiences and tastes. I have zip musical talent so I'm just gonna share what I'm into at the time. Tryna figure out the best layout to do this, so I'll try to mix up each post a little bit.
